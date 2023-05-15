@@ -1,0 +1,17 @@
+@import './base.css';
+
+/* color: hsla(160, 100%, 37%, 1); */
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  color: rgb(203, 203, 203);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
