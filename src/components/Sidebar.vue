@@ -39,7 +39,7 @@
 .sidebar {
   width: 180px;
   height: 100vh;
-  background-color: rgb(58, 58, 58);
+  background-color: rgb(32, 32, 32);
   position: fixed;
   left: 0;
   top: 0;

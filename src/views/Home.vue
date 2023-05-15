@@ -4,7 +4,7 @@
       <div class="col-6">
         <h1 class="text-white pb-4">Gerez toute votre vie dans notre application</h1>
         <div class="home-btn-container">
-          <a class="home-btn mb-3" href="">Commencer</a>
+          <a class="home-btn mb-3" href="">Voir mes autres projets</a>
           <a class="home-btn" href="">Voir mes projets</a>
         </div>
       </div>
